@@ -1,0 +1,50 @@
+body{
+    background-color: lightgrey;
+}
+h2{
+    color: purple;
+}
+table {
+    background-origin: padding-box;
+    border:1px solid purple;
+    width: 50%;
+    box-shadow: rgb(180, 109, 180);
+    
+}
+
+th {
+    background-color: plum;
+    
+    
+}
+
+td {
+    border:1px solid lightgrey;
+    border-top-color: purple;
+    border-left-color: lightgrey;
+    border-right-color: lightgrey;
+
+}
+
+p{
+    border: 5px solid steelblue;
+    padding: 10px;
+    margin: 30px;
+}
+
+#div{
+    width: 180px;
+    padding: 10px;
+    border: 5px solid turquoise;
+    margin: 30px;
+}
+
+#diff{
+    background-color:snow;
+    color: black;
+    column-gap: 20%;
+    font-size: 90%;
+    color-adjust: 50%;
+    
+    
+}0
